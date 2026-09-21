@@ -10,8 +10,8 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  * 类型见 src/types/config.ts。
  */
 export const siteConfig: SiteConfig = withUserConfig("site", {
-	site: "https://shirone.mysqil.com/",
-	base: "/",
+	site: "https://ningzi0606.github.io",
+	base: "/Shirone",
 	title: "霞光凝暮山紫",
 	subtitle: "A Material 3 anime blog",
 	// 电脑端顶栏标题与导航内容区域："left" 左对齐，"center" 居中。
